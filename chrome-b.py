@@ -1,7 +1,7 @@
 #!/bin/python3
 
 # title: chrome-b
-# author: Madhav Kumar [linkedin: ...............]
+# author: Madhav Kumar [https://github.com/Madhav-MKNC]
 # created on: 4th December 2022 06:00 AM
 
 
